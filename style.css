@@ -1,0 +1,13 @@
+h1 {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+nav ul{display: flex;
+       gap: 20px;}
+
+body {background-color: #9b4922;
+      color: #efe7dd;}
+
+.fic {font-size: 20px;
+
+}
