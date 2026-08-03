@@ -1,4 +1,4 @@
-#B. Lovi
+# B. Lovi
 
 A website for book lovers to discover and share recommendations, and even create their own stories.
 
@@ -9,8 +9,14 @@ A website for book lovers to discover and share recommendations, and even create
 - Share book experiences
 - Write your own stories
 
-##Technologies
+## Technologies
+
+### Frontend
 - HTML
 - CSS
 - JavaScript 
+
+### Tools
+- Git
+- GitHub
 
